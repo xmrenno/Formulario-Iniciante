@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.topo-site {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    color: #B22222;
+}
+.preencha {
+    font-size: 13px;
+    color: #B22222;
+}
+.grupo-1 {
+    color: #B22222;
+    text-align: center;
+    border-color: #A9A9A9;
+    border-radius: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 18px;
+}
+#nome, #sobrenome, #email, #data-nascimento, #textarea1, #textarea2 {
+    background-color: #C0C0C0;
+    border-color: #B22222;
+}
+.grupo-2 {
+    color: #B22222;
+    text-align: center;
+    border-color: #C0C0C0;
+    border-radius: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 18px;
+}
+#textarea1, #textarea2{
+    border-radius: 1px;
+    border-color: #B22222;
+}
+.grupo-3 {
+    color: #B22222;
+    text-align: center;
+    border-color: #A9A9A9;
+    border-radius: 10px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 18px;
+}
+.botao {
+    color: white;
+    background-color: #B22222;
+    font-size: 15px;
+    border: 0;
+    border-radius: 2px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.botao:hover {
+    color: black;
+    background-color: white;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
